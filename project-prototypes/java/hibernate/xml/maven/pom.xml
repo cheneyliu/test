@@ -6,10 +6,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.cyberitcamp.prototypes</groupId>
-  <artifactId>prototype-java-core</artifactId>
+  <artifactId>prototype-hibernate-xml</artifactId>
   <version>1.0.0-SNAPSHOT</version>
 
-  <name>Prototype Java Core</name>
+  <name>Prototype Hibernate Xml</name>
 
   <properties>
     <junit.jupiter.version>5.2.0</junit.jupiter.version>

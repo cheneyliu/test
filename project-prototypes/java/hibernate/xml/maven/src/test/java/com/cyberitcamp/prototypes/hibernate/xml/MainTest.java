@@ -1,4 +1,4 @@
-package com.cyberitcamp.prototypes.java.core;
+package com.cyberitcamp.prototypes.hibernate.xml;
 
 import org.junit.jupiter.api.Test;
 
